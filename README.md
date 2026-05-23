@@ -17,7 +17,7 @@ de una aplicación web, un E-commerce llamado "Swag Labs"
 
 ## Instalación
 
-git clone https://github.com/unravelation/pre-entrega_-_BARREIRO.git
+git clone https://github.com/ematiasbarreiro/pre-entrega_-_BARREIRO.git
 
 ## Instalación de dependencias
 
